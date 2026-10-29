@@ -9,6 +9,7 @@ about:
 :::{#me}
 
 ## Goals
+pass biol 806
 
 ## Education
 
